@@ -1,6 +1,6 @@
 """
 Scopo: Leggere una playlist spotify e scaricare le canzoni da Youtube Music. Questo script è l'UI. 
-Script associato al downloader. HEllo Bello
+Script associato al downloader.
 """
 
 import sys
